@@ -3,11 +3,10 @@
 // ============================================
 
 const CONFIG = {
-    defaultCity: { lat: 51.5074, lon: -0.1278, name: 'London, United Kingdom' },
+    defaultCity: { lat: 17.3850, lon: 78.4867, name: 'Hyderabad, India' },
     units: 'metric',
     maxHistory: 5
 };
-
 let state = {
     isCelsius: true,
     isDark: true,
